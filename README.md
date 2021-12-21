@@ -20,9 +20,7 @@
 
 <br>
 
-![Rafsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafsananan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rafsananan/github-readme-stats)
+| <a href="https://github.com/rafsananan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafsananan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rafsananan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsananan&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
 <h3> 🤝🏻 Connect with Me </h3>
 
