@@ -1,12 +1,12 @@
-<h2> Hey there! I'm Rafsan. 👋
+<h2> Hey there! I'm Rafsan 👋
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning MERN Stack Development
+- 🔭 &nbsp; I’m currently learning MERN Stack Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science & Engineering
+- 🎓 &nbsp; Studied Computer Science & Engineering.
 - 💼 &nbsp; Front-end web developer and MERN Stack Developer.
-- 🌱 &nbsp; Enthusiast in Web Development and Project Management .
+- 🌱 &nbsp; Enthusiast in Web Development and Project Management.
 - ✍️ &nbsp; Watching Movies and travelling are my hobbies.
 - 📫 &nbsp; Contact me: anan.dhaka@gmail.com
 
