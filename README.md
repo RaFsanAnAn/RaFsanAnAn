@@ -20,7 +20,7 @@
 
 <br>
 
-| <a href="https://github.com/rafsananan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafsananan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafsan's github stats" /></a> | <a href="https://github.com/rafsananan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsananan&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/rafsananjum/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafsananjum&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafsan's github stats" /></a> | <a href="https://github.com/rafsananjum/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafsananjum&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -28,8 +28,8 @@
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/rafsan_anan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/rafsananan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/RafsanAnan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://x.com/RafsanAnan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="mailto:anan.dhaka@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [rafsananan](https://github.com/rafsananan)
+⭐️ From [rafsananjum](https://github.com/rafsananjum)
