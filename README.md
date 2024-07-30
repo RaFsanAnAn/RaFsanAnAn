@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning MERN Stack Development.
+- 🔭 &nbsp; I’m currently learning Python.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science & Engineering.
-- 💼 &nbsp; Front-end web developer and MERN Stack Developer.
+- 💼 &nbsp; Software Developer and is interested in MERN Stack & Python.
 - 🌱 &nbsp; Enthusiast in Web Development and Project Management.
 - ✍️ &nbsp; Watching Movies and travelling are my hobbies.
 - 📫 &nbsp; Contact me: anan.dhaka@gmail.com
